@@ -1,0 +1,6 @@
+POST  http://localhost:3001/api/sensor/data 
+content-type: application/json
+
+{
+ "value": "25",
+}
